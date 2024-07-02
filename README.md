@@ -28,3 +28,39 @@ Bu proje, bir Excel dosyasındaki metni Python kullanarak ses dosyalarına dön�
    git clone https://github.com/yourusername/yourrepository.git
    cd yourrepository
 
+2. Install the required Python packages:
+   ```bash
+   pip install pandas gtts tkinter
+   
+3. Depoyu klonlayın:
+   ```bash
+   git clone https://github.com/yourusername/yourrepository.git
+   cd yourrepository
+   
+4. Gerekli Python paketlerini yükleyin:
+   ```bash
+   pip install pandas gtts tkinter
+
+   
+## Usage / Kullanım
+
+1. Run the script:
+   ```bash
+   python excel_speech_converter.py
+2. Select the Excel file containing the text to be converted.
+
+3.Select the directory where the speech files will be saved.
+
+4. Betiği çalıştırın:
+  ```bash
+   python excel_speech_converter.py
+
+5. Dönüştürülecek metni içeren Excel dosyasını seçin.
+
+6. Ses dosyalarının kaydedileceği dizini seçin.
+
+
+License / Lisans
+This project is licensed under the MIT License.
+
+Bu proje MIT Lisansı altında lisanslanmıştır.
