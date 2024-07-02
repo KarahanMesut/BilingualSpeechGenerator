@@ -1,4 +1,4 @@
-# Excel Speech Converter / Excel'den Konuşma Dönüştürücü
+# Bilingual Speech Generator / Excel'den Konuşma Dönüştürücü
 
 This project converts text from an Excel file to speech files using Python. The user can select the Excel file and the output directory for the speech files.
 
