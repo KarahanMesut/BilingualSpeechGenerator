@@ -25,7 +25,7 @@ Bu proje, bir Excel dosyasındaki metni Python kullanarak ses dosyalarına dön�
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
+   git clone https://github.com/KarahanMesut/BilingualSpeechGenerator.git
    cd yourrepository
 
 2. Install the required Python packages:
@@ -34,7 +34,7 @@ Bu proje, bir Excel dosyasındaki metni Python kullanarak ses dosyalarına dön�
    
 3. Depoyu klonlayın:
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
+   git clone https://github.com/KarahanMesut/BilingualSpeechGenerator.git
    cd yourrepository
    
 4. Gerekli Python paketlerini yükleyin:
@@ -46,14 +46,14 @@ Bu proje, bir Excel dosyasındaki metni Python kullanarak ses dosyalarına dön�
 
 1. Run the script:
    ```bash
-   python excel_speech_converter.py
+   python bilingual_speech_generator.py
 2. Select the Excel file containing the text to be converted.
 
 3.Select the directory where the speech files will be saved.
 
 4. Betiği çalıştırın:
-  ```bash
-   python excel_speech_converter.py
+   ```bash
+   python bilingual_speech_generator.py
 
 5. Dönüştürülecek metni içeren Excel dosyasını seçin.
 
